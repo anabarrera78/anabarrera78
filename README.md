@@ -8,3 +8,4 @@
 - 😄 estoy deseando poder poner en practica todo lo nuevo que estoy aprendiendo en mis estudios en el Bootcamp
 - ⚡ se hacer informes de errores, diseño de  pruebas, Jira, HTTP, API, POSTMAN, SQL, Bases de datos relacionadas
   
+
