@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning QA Engenier
 - 📫 How to reach me: anabarahonahernandez@hotmail.com 
 - 😄 Pronouns: Anita 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: se hacer informes de errores, diseño de  pruebas, Jira, HTTP, API, POSTMAN, SQL, Bases de datos relacionadas
 -->
