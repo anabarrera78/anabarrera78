@@ -1,6 +1,6 @@
 ## Hi there SOY ANA MARIA BARRERA 👋
 
-- 🌱Actualmente estoy estudiando QA Engineer en el BootCamp TripleTen online.
+- 🌱QA Engineer.
 - 🔭Actualmente estoy trabajando presencial on Mcdonals
 -  📫 Me puedes contactar: anabarahonahernandez@hotmail.com
 -  📱+19546690797
