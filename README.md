@@ -1,5 +1,8 @@
-https://www.canva.com/design/DAGrabhi5zo/9TTiYQ2Od1w1SzUUq2VDMA/edit?utm_content=DAGrabhi5zo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<img width="1584" height="396" alt="ana maria barrera (2)" src="https://github.com/user-attachments/assets/5ab9a3ef-cea2-43e4-91d8-1cd0ed53259e" />
+
+
 ## Hi there SOY ANA MARIA BARRERA 👋
+
 
 - 🌱QA Engineer.
 - 🔭Actualmente estoy trabajando presencial on Mcdonals
@@ -10,7 +13,7 @@ https://www.canva.com/design/DAGrabhi5zo/9TTiYQ2Od1w1SzUUq2VDMA/edit?utm_content
 - ⚡ se hacer informes de errores, diseño de  pruebas, Jira, HTTP, API, POSTMAN, SQL, Bases de datos relacionadas
 
 
-  
+  Teconologias y Herramientas
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-green?style=flat&logo=jetbrains&logoColor=white)
